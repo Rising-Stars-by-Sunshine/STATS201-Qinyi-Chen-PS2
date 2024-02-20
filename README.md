@@ -6,13 +6,15 @@ This repository contains the information about my research on Whether seasonal c
 ## Table of Content
 1. Data
 
-   Quired_Data
+   [Quired_Data](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Data/Processed-Data/Sleep_data.xlsx)
    
-   Data_Dictionary
+   [Data_Dictionary](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Data)
    
 2. Code
    
    Data_Query
+
+   Data_Processing
    
 
 # Author
