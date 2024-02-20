@@ -14,7 +14,7 @@ To analyze the causal impact of seasonal change on sleep quality, the Regression
 
 **Results**
 
-![RDD](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Code/RDD)
+![RDD](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Code/RDD.png)
 
 
 ## Table of Content
