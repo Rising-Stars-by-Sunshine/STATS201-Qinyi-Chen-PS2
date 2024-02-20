@@ -15,7 +15,9 @@ Since the monthly data were initially stored in separate files, it is necessary 
 Let's display the first few rows of the dataset:
 ![Glance](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Data/Processed-Data/Glance.png)
 
-### Data Dictionary
+## Data Dictionary
+![Flow_chart](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Data/Queried-Data/Data_Structure.png)
+
 | Variable                | Definition                      | Description                                           | Frequency | Range          | Unit         | Type     | Sample Observations        |
 |-------------------------|---------------------------------|-------------------------------------------------------|-----------|----------------|--------------|----------|-----------------------------|
 | Day                     | Day of the month                | Integer value representing the day of the month       | Daily     | 1-31           | Day          | Integer  | 1, 2, 3                     |
