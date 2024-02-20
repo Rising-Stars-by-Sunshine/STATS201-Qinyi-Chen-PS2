@@ -1,4 +1,4 @@
-![Flow_Chart](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Method)
+![Flow_Chart](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Method](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Method/Flow_Chart.png)
 ## Problem Set 2
 
 ### Research Question Formulation:
