@@ -1,4 +1,4 @@
-# Queried Data: Apple Watch Recording of Sleep 
+# Queried Data: FitBit Record of Sleep 
 
 This folder shows the queried data for this research. The data is downloaded from an online open source: https://www.kaggle.com/datasets/riinuanslan/sleep-data-from-fitbit-tracker.
 ![Website](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Data/Queried-Data/Queried_Data.png)
