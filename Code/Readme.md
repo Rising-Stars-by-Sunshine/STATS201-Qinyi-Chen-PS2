@@ -1,0 +1,4 @@
+# Data Query
+
+## Query Process
+The dataframe "Sleep_data" is found in an open datasource from kaggle. [sleep_record](https://www.kaggle.com/datasets/riinuanslan/sleep-data-from-fitbit-tracker) The data is a record of the sleep data of an individual from November to April, down by her apple watch. This dataframes includes detailed parameters of the sleep data, such as deep_sleep, sleep_hours. The overall sleep quality is measured by "SLEEP_SCORES", which can be used for this research. In my research, I wonder whether the sleep quality can be influecned by seasonal changes, for instance, from winter to spring. Therefore, this time-series data can be applied for conducting regression discontinuity. I first cleaned a few NAs in the data set. Then, I added the number of days since the author started recording, which can make the data processing easier. The days are splited at day 92, which is the last day of January marking the end of the winter.
