@@ -14,23 +14,23 @@ To analyze the causal impact of seasonal change on sleep quality, the Regression
 
 **Results**
 
-![RDD](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Code/RDD.png)
+![RDD](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Code/RDD.)
 
 
 ## Table of Content
 
 1.  Method
-
    [Method](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Method)
 
-2.  Data
-
-   [Quired_Data](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Data/Processed-Data/Sleep_data.xlsx)
+3.  Data
    
+   [Quired_Data](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Data/Processed-Data/Sleep_data.xlsx)
+
    [Data_Dictionary](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Data)
    
 3. Code
-   [Data_query]
+   
+   [Data_query](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Code)
 
    [Data_analysis](https://github.com/Annieqyc/STATS201-Qinyi-Chen/blob/main/Code/Problem_Set_2_RDD.ipynb)
 
