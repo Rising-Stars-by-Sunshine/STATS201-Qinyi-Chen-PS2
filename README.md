@@ -8,17 +8,22 @@ The significance of this inquiry lies in its potential to inform personalized sl
 
 Employing time-series data to capture daily observations of sleep quality over several months, the study defines sleep quality (SLEEP_SCORES) as the dependent variable, with time (days) serving as the independent variable to infer seasonality. The hypothesis predicts that seasonal transitions, particularly from Winter to Spring, marked by environmental changes such as temperature fluctuations and daylight variations, significantly affect sleep quality. This prediction is grounded in literature suggesting the influence of environmental factors on sleep patterns and circadian rhythms.
 
+**Method**
 To analyze the causal impact of seasonal change on sleep quality, the Regression Discontinuity Design (RDD) framework is chosen for its suitability in quasi-experimental designs. The analysis will focus on the discontinuity at the seasonal transition point, without a conventional train-test split, highlighting the immediate effects of seasonal change. Results will be visualized through scatter plots with fitted regression lines to demonstrate sleep score distributions and the discontinuity at the seasonal cutoff. The study will evaluate the significance of the seasonal impact on sleep quality, with iterative model refinements aimed at enhancing predictive accuracy and understanding of the relationship between seasonality and sleep.
 
 ## Table of Content
 
-1. Data
+1.  Method
+
+   [Method](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Method)
+
+2.  Data
 
    [Quired_Data](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Data/Processed-Data/Sleep_data.xlsx)
    
    [Data_Dictionary](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Data)
    
-2. Code
+3. Code
    [Data_query]
 
    [Data_analysis](https://github.com/Annieqyc/STATS201-Qinyi-Chen/blob/main/Code/Problem_Set_2_RDD.ipynb)
