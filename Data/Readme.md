@@ -12,6 +12,9 @@ This data can be classified as a time-series data, which captures daily observat
 
 Since the monthly data were initially stored in separate files, it is necessary to merge the data in order to create a time-series data that contains data of 6 months. Additionally, I added the column "Days" to simplify the processing of time. 
 
+Let's display the first few rows of the dataset:
+![Glance](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Data/Processed-Data/Glance.png)
+
 ### Data Dictionary
 | Variable                | Definition                      | Description                                           | Frequency | Range          | Unit         | Type     | Sample Observations        |
 |-------------------------|---------------------------------|-------------------------------------------------------|-----------|----------------|--------------|----------|-----------------------------|
