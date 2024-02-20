@@ -40,5 +40,4 @@ Model Development:
 ### References
 Anslan, R. (2022, May 1). Sleep data from Fitbit Tracker. Kaggle. https://www.kaggle.com/datasets/riinuanslan/sleep-data-from-fitbit-tracker 
 
-![Grammarly_2](https://github.com/Annieqyc/STATS201-Qinyi-Chen/blob/main/Method/Grammarly_2.png)
 
