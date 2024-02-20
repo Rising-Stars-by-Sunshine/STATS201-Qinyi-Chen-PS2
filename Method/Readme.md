@@ -1,5 +1,5 @@
 ## Problem Set 2
-![Flow_Chart]([https://github.com/Annieqyc/STATS201-Qinyi-Chen/blob/main/Method/Flow_Chart.png](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Method/Flow_Chart.png))
+![Flow_Chart](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Method/Flow_Chart.png))
 ### Research Question Formulation:
 **Objective**: The sleep quality may differ between seasons, influenced by changed temperature, exercise, and workload. Therefore, this research aims to find out whether season influences sleep quality. The question is: "How do seasonal changes and temperature variations affect sleep quality as measured by sleep scores?"
 
