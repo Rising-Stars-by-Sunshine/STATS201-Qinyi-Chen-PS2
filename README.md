@@ -19,11 +19,9 @@ To analyze the causal impact of seasonal change on sleep quality, the Regression
    [Data_Dictionary](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/tree/main/Data)
    
 2. Code
-   
-   Data_Query
+   [Data_query]
 
-   Data_Processing
-   
+   [Data_analysis](https://github.com/Annieqyc/STATS201-Qinyi-Chen/blob/main/Code/Problem_Set_2_RDD.ipynb)
 
 # Author
 ![Headshot](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Qinyi_Chen.jpg)
