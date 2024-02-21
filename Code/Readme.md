@@ -108,7 +108,7 @@ discontinuity_estimate = reg_spring.intercept_ - reg_winter.intercept_
 discontinuity_estimate
 ```
 
-![output1](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Code/output1.png)
+![output2](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Code/output2.png)
 
 discontinuity_estimate=-3.0675216979097826
 
@@ -136,7 +136,9 @@ plt.show()
 # Recalculate the estimate of the discontinuity with the corrected data
 discontinuity_estimate_corrected = reg_spring.intercept_ - reg_winter.intercept_
 discontinuity_estimate_corrected
-![output3](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Code/output1.png)
+```
+
+![output3](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Code/output3.png)
 
 
 
