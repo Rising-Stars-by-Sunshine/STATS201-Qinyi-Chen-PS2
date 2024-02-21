@@ -28,9 +28,4 @@ warnings.filterwarnings("ignore")
 test_run = bool(os.environ.get("TEST_RUN", False))  # used by testing to run the notebook as a script
 
 
-### Including Output
 
-After the code block, you can present the output in a regular text block or use a code block without specifying a language if the output is plain text.
-
-```markdown
-Output:
