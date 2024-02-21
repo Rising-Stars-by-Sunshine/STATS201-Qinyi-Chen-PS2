@@ -34,6 +34,7 @@ df = pd.read_excel(sleep_data_path)
 # Display the first few rows of the dataframe to understand its structure
 df.head()
 
-```markdown
-Output: ![head](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Data/Processed-Data/Glance.png)
+```
+Output:
+![head](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Data/Processed-Data/Glance.png)
 
