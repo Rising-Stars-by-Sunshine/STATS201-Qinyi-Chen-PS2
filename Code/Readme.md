@@ -6,7 +6,7 @@ The dataframe "Sleep_data" is found in an open datasource from kaggle. [sleep_re
 [View Problem Set 2 RDD Notebook on nbviewer](https://nbviewer.jupyter.org/github/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Code/Problem_Set_2_RDD.ipynb)
 
 ```python
-# Python code snippet
+# Environmental Setting
 import pandas as pd
 import numpy as np
 import plotnine as p
@@ -27,5 +27,13 @@ import pandas as pd
 warnings.filterwarnings("ignore")
 test_run = bool(os.environ.get("TEST_RUN", False))  # used by testing to run the notebook as a script
 
+# Load the Sleep Data
+sleep_data_path = 'Sleep_data.xlsx'
+df = pd.read_excel(sleep_data_path)
 
+# Display the first few rows of the dataframe to understand its structure
+df.head()
+
+```markdown
+Output: ![head](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Data/Processed-Data/Glance.png)
 
