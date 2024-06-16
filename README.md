@@ -36,5 +36,5 @@ To analyze the causal impact of seasonal change on sleep quality, the Regression
 
 # Author
 ![Headshot](https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Qinyi_Chen.jpg)
-
+<img src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Qinyi-Chen-PS2/blob/main/Qinyi_Chen.jpg" width="200" />
 I'm Qinyi Chen from the class of 2026 in Duke Kunshan University. My intended major is Behavioral Science, with a focus on the Neuroscience track. I have a deep interest in unraveling the intricate mechanisms underlying human behaviors. To this end, I am eager to engage in research that bridges the gap between theoretical knowledge and practical application in the field of neuroscience. My goal is to master various algorithms and data processing techniques, as these are crucial tools for analyzing complex behavioral data and contributing to our understanding of the brain's function. I look forward to applying these skills in neuroscientific research to uncover new insights into human behavior.
